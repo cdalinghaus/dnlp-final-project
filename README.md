@@ -31,4 +31,4 @@ Parts of the code are from the [`transformers`](https://github.com/huggingface/t
 
 Parts of the scripts and code were altered by [Jan Philip Wahle](https://jpwahle.com/) and [Terry Ruas](https://terryruas.com/).
 
-The project was modified by [Niklas Bauer and Tolga Ermis](https://github.com/ItsNiklas/) for the 2026 DNLP course at the University of Göttingen.
+The project was modified by [Niklas Bauer](https://github.com/ItsNiklas/) and [Tolga Ermis](https://github.com/Tollgaermis/) for the 2026 DNLP course at the University of Göttingen.
