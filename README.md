@@ -1,4 +1,4 @@
-# DNLP SS25 Final Project
+# DNLP SS26 Final Project
 
 This is the starting code for the default final project for the Deep Learning for Natural Language Processing course at the University of Göttingen. You can find the handout [here](https://docs.google.com/document/d/1pZiPDbcUVhU9ODeMUI_lXZKQWSsxr7GO/edit?usp=sharing&ouid=112211987267179322743&rtpof=true&sd=true)
 
@@ -31,4 +31,4 @@ Parts of the code are from the [`transformers`](https://github.com/huggingface/t
 
 Parts of the scripts and code were altered by [Jan Philip Wahle](https://jpwahle.com/) and [Terry Ruas](https://terryruas.com/).
 
-The project was modified by [Niklas Bauer](https://github.com/ItsNiklas/) for the 2025 DNLP course at the University of Göttingen.
+The project was modified by [Niklas Bauer and Tolga Ermis](https://github.com/ItsNiklas/) for the 2026 DNLP course at the University of Göttingen.
