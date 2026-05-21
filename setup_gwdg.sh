@@ -52,6 +52,8 @@ conda install -y "numpy<2" pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 
 conda install -y tqdm==4.66.2 requests==2.31.0 transformers==4.38.2 tensorboard==2.16.2 tokenizers==0.15.1 -c conda-forge -c huggingface
 pip install explainaboard-client==0.1.4 sacrebleu==2.4.0 scikit_learn==1.6.1
 
+conda config --set auto_activate_base false
+
 # Download model on login-node
 
 python - <<EOF
